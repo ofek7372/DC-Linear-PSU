@@ -19,7 +19,7 @@ The design delivers approximately 6.1 V with strict load regulation (<5%) and 
 - [Performance Summary]
 - [Limitations & Future Improvements]
 - [How to Reproduce / Test]
-- [Skills Demonstrated](#skills-demonstrated)
+- [Skills Demonstrated]
 ---
 
 ## Overview
