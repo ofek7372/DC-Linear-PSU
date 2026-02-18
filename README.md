@@ -1,6 +1,6 @@
-# DC Linear Power Supply (dc-linear-psu)
+c# DC Linear Power Supply (dc-linear-psu)
 
-A linear DC power supply featuring a **full‑wave bridge rectifier**, smoothing capacitor, and a **zener‑based linear regulator** designed to deliver approximately **6.1 V** with strict **load regulation (<5%)** and **line regulation (<0.5%)**, validated via simulation and a soldered prototype. [1](https://qmulprod-my.sharepoint.com/personal/ec24673_qmul_ac_uk/Documents/Microsoft%20Copilot%20Chat%20Files/dc_psu_report.pdf)
+A linear DC power supply featuring a **full‑wave bridge rectifier**, smoothing capacitor, and a **zener‑based linear regulator** designed to deliver approximately **6.1 V** with strict **load regulation (<5%)** and **line regulation (<0.5%)**, validated via simulation and a soldered prototype. [1](file:///C:/Users/ec24673/Desktop/dc_psu_report.pdf)
 
 ---
 
